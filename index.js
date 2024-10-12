@@ -6,6 +6,7 @@ function menu()
  }
  else{
    all_icon.style.display = 'none';
+  
  }
  
 }
